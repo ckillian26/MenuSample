@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="PrintMenuItem">Print</string>
+    <string name="ActionDownload">Download</string>
+    <string name="actionQuit">Quit</string>
+</resources>

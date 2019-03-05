@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.cdd.menusample.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_download"
+        android:orderInCategory="101"
+        android:title="@string/ActionDownload" />
+    <item
+        android:id="@+id/action_Print"
+        android:orderInCategory="102"
+        android:title="@string/PrintMenuItem" />
+    <item
+        android:id="@+id/action_quit"
+        android:orderInCategory="103"
+        android:title="@string/actionQuit" />
+</menu>
